@@ -1,4 +1,4 @@
-# Econ_Faculty_Scrapper</br>
+# Econ-Faculty_Scrapper</br>
 
 ### A Web Scraping Task to collect detailed information on faculty members from selected departments with a PhD in Economics.</br>
 </br>
