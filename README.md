@@ -45,3 +45,13 @@ The data was requested by web scrapping with R programming language utilising li
    
    <div align="justify">
 
+2.  #### ``IIMA``
+    - [``IIMA_Econ_Faculty_Scrapper.R``](IIMA/IIMA_Econ_Faculty_Scrapper.R)</br>
+
+      This script loads the Indian Institute of Management, Ahmadabad economics faculty webpage and retrieves links to all its members' webpage. The individual pages are then loaded to collect educational and research details of the members, which are collated into a [<i>data.frame</i>](IIMA/Output/iima_econ_dept_profile.Rda).
+      
+    - [``Output``](IIMA/Output)</br>
+
+      This folder has the output of ``IIMA_Econ_Faculty_Scrapper.R``, [``IIMA_Econ_Dept_Profiles.csv``](IIMA/Output/IIMA_Econ_Dept_Profiles.csv).
+
+      
